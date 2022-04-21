@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="occupation">
+        <item>-Select-</item>
+        <item>Government Employees</item>
+        <item>Private Employees</item>
+        <item>Student</item>
+        <item>Entrepreneur</item>
+        <item>Other</item>
+    </array>
+
+    <array name="marital">
+        <item>-Select-</item>
+        <item>Single</item>
+        <item>Married</item>
+        <item>Widowed</item>
+        <item>Divorced</item>
+    </array>
+</resources>

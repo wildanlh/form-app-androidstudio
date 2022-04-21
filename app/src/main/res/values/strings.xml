@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">PersonalData</string>
+    <string name="hello">Hello</string>
+    <string name="welcome">Hello,\nWelcome</string>
+    <string name="start">Start</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="next">Next</string>
+    <string name="Cancel">Cancel</string>
+    <string name="hi">Hi</string>
+    <string name="agree">I agree with this</string>
+    <string name="tnc">Terms and Conditions</string>
+    <string name="nik">NIK</string>
+    <string name="placeofbirth">Place of Birth</string>
+    <string name="dateofbirth">Date of Birth</string>
+    <string name="address">Address</string>
+    <string name="gender">Gender</string>
+    <string name="occupation">Occupation</string>
+    <string name="maritalstatus">Marital Status</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="date">DD/MM/YYYY</string>
+    <string name="nonik">NIK</string>
+    <string name="fullname">Full Name</string>
+    <string name="city">City</string>
+    <string name="homeaddress">Home Address</string>
+    <string name="data">Data Information</string>
+    <string name="back">Back</string>
+</resources>
